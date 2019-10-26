@@ -1,7 +1,7 @@
 # spoken_written
 converting English sentence from spoken to written
 ### Note:
-I have not done creating Library as I am ran out of time and I am not familiar with github.But I have completed the task and uploded as .ipynb file. Sorry for the truble.please have a glance
+I have not done creating Library as I am ran out of time(to learn) as I am not familiar with dealing github .But I have completed the task and uploded as .ipynb file. Sorry for the truble.please have a glance at my solution.
 
 ### Here is Explanation of the solution:
 1. My approach is to classify the words into categories(Numericals,plain,Digital,Letters).
