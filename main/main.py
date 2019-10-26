@@ -9,7 +9,7 @@ Original file is located at
 
 #from google.colab import drive
 #drive.mount('/content/drive')
-from .     import main
+
 
 dr="/spoken_written/saved_weights/"
 
