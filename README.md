@@ -1,7 +1,7 @@
 # spoken_written
 converting English sentence from spoken to written
 ### Note:
-I have not done creating Library as I am ran out of time.But I have completed the task and uploded as .ipynb file. Sorry for the truble.
+I have not done creating Library as I am ran out of time and I am not familiar with github.But I have completed the task and uploded as .ipynb file. Sorry for the truble.please have a glance
 
 ### Here is Explanation of the solution:
 1. My approach is to classify the words into categories(Numericals,plain,Digital,Letters).
@@ -19,6 +19,11 @@ I have not done creating Library as I am ran out of time.But I have completed th
 
 4. I Feel charecter level word embedingd will improve the performence of the model
 5. Having more classes will also improve the model.
+
+## Sample text result:
+* input:"many people told me that having son is better than having daughter . when i was five years old playing with three of my friends we found fifty five hundred dollar note and thoughts to share among us . but unfortunatel it was taken by sixty year old men who lives in u.s and he works in n a s a."
+
+* Predicted: "many people told me that having son is better than having daughter . when I was 5 years old playing with 3 of my friends we found 56 dollar note and thoughts to share among us . but unfortunatel it was taken by 60 year old men who lives in U.S and he works in NASA."
 
 
 
