@@ -5,9 +5,10 @@ I have not done creating Library as I am ran out of time.But I have completed th
 
 ### Here is Explanation of the solution:
 1. My approach is to classify the words into categories(Numericals,plain,Digital,Letters).
-Numericals: Includes all types of texts having numberical form like address,telephone.
-Plain: same text as output.
-Digital:web addresses and other symbols
+* Numericals: Includes all types of texts having numberical form like address,telephone.
+* Plain: same text as output.
+* Digital:web addresses and other symbols
+* Letters for abbrivation like n a s a :NASA
 2. First I have build a Bi-directional LSTM for the label prediction (Pedicting label for eachtoken(word)).
 3. next I build seperate LSTM models for each class and got accuracy (99% for Number class,98% for Letter class,85% for Digit class).
 
